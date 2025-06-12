@@ -97,27 +97,27 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XUPOLVYA
 
 [Parameter1]
-Name=CheckedBy
-Value=Prof. Telles Brunneli Lazzarin D. Eng.
-
-[Parameter2]
 Name=ApprovedBy
 Value=
 
+[Parameter2]
+Name=Author
+Value=Rebecca Quintino Do Ó e Felipe Pastana
+
 [Parameter3]
-Name=Title
-Value=Conversor Forward
+Name=CheckedBy
+Value=Prof. Telles Brunneli Lazzarin D. Eng.
 
 [Parameter4]
 Name=Revision
 Value=0.1
 
 [Parameter5]
-Name=Author
-Value=Rebecca Quintino Do Ó e Felipe Pastana
+Name=Title
+Value=Conversor Forward
 
 [Configuration1]
 Name=Sources
