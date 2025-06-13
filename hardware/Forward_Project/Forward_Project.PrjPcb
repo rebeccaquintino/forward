@@ -36,10 +36,7 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=60A3D7AE-759B-42ED-8C89-B2D40B11A20D
-VaultGUID=2CBDF7EE-21D2-4B5D-ABDB-B0A13F852335
-ReleaseVaultName=Felipe Pastana
-ItemGUID=60A3D7AE-759B-42ED-8C89-B2D40B11A20D
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -87,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=lib\Elet_pot_2.PcbLib
+DocumentPath=..\..\..\altium\Elet_pot_2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,10 +98,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPMCXFJO
 
 [Document4]
-DocumentPath=lib\Elet_pot_2.SchLib
+DocumentPath=..\..\..\altium\Elet_pot_2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,10 +115,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XUPOLVYA
 
 [Document5]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=Forward.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
