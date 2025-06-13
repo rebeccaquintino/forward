@@ -1,0 +1,45 @@
+Add Component: Footprint Not Found MUR840
+Add Component: Footprint Not Found MUR840
+Add Component: Footprint Not Found MUR840
+Added Component: Designator=J1(Header 8pin)
+Added Component: Designator=J2(CON_MOLEX_2_vias)
+Added Component: Designator=J3(CON_MOLEX_2_vias)
+Added Component: Designator=J4(Borne_KRE_2pin)
+Added Component: Designator=L1(Indutor)
+Add Component: Footprint Not Found IRF430
+Added Component: Designator=TRAFO(Trafo_NEE_30/14)
+Added Pin To Net: NetName=12V5 Pin=J4-2
+Added Pin To Net: NetName=12V5 Pin=L1-2
+Added Net: Name=12V5
+Added Pin To Net: NetName=100V Pin=J3-1
+Added Pin To Net: NetName=100V Pin=TRAFO-P1
+Added Pin To Net: NetName=100V Pin=TRAFO-S2
+Added Net: Name=100V
+Added Pin To Net: NetName=GATE Pin=J1-4
+Added Pin To Net: NetName=GATE Pin=J1-5
+Added Net: Name=GATE
+Added Pin To Net: NetName=GND_P Pin=J3-2
+Added Net: Name=GND_P
+Added Pin To Net: NetName=GND_S Pin=J4-1
+Added Pin To Net: NetName=GND_S Pin=TRAFO-S2
+Added Net: Name=GND_S
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=TRAFO-S1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_2 Pin=TRAFO-T1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetQ1_2 Pin=TRAFO-P2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=VIN_COMANDO Pin=J1-1
+Added Pin To Net: NetName=VIN_COMANDO Pin=J1-2
+Added Pin To Net: NetName=VIN_COMANDO Pin=J2-1
+Added Net: Name=VIN_COMANDO
+Added Class: Name=Forward
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
