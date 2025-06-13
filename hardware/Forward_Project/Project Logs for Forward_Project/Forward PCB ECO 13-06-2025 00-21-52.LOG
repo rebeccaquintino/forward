@@ -1,0 +1,11 @@
+Added Component: Designator=TRAFO(Trafo_NEE_30/14)
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-2
+Added Pin To Net: NetName=100V Pin=TRAFO-P1
+Added Pin To Net: NetName=NetQ1_2 Pin=TRAFO-P2
+Added Pin To Net: NetName=NetD1_1 Pin=TRAFO-S1
+Added Pin To Net: NetName=100V Pin=TRAFO-S2
+Added Pin To Net: NetName=GND_S Pin=TRAFO-S2
+Added Pin To Net: NetName=NetD3_2 Pin=TRAFO-T1
+Added Member To Class: ClassName=Forward Member=Component TRAFO

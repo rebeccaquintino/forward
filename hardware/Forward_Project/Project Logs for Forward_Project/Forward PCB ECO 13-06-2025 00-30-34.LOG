@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=Con_Molex_2_pin New DesignItemId=Borne_KRE_2_vias
+Change Component Footprint: Designator=J3 Old Footprint=CON_MOLEX_2_vias New Footprint=Borne_KRE_2pin
+Change Component Comment : Designator=J3 Old Comment=VIN New Comment=
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-2
+Added Pin To Net: NetName=100V Pin=TRAFO-S2
