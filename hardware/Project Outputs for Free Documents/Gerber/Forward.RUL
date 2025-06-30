@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\rebec\Desktop\faculdade\optativas\elepot2\forward\hardware\Forward.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=Width_S|Scope=Board|Minimum=59.06
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_P|Scope=Board|Minimum=59.06
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=20.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
