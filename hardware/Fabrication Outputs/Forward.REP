@@ -2,31 +2,25 @@
 FileName = Forward.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Forward.GTL
+Generating : Mechanical 1
+      File : Forward.GM1
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Forward.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -58,21 +52,30 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : Forward.GKO
+Generating : Top Layer
+      File : Forward.GTL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : Forward.GM
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D26
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 

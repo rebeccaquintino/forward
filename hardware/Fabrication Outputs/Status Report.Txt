@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 23:42:31 On 29/06/2025
-
 Output: Gerber Files
 Type  : Gerber
-From  : Variant [[No Variations]] of PCB Document [Forward.PcbDoc]
+From  : Variant [[No Variations]] of Project [Forward_Project.PrjPcb]
    Generated File[Forward.GTL]
    Generated File[Forward.GBL]
+   Generated File[Forward.GM1]
    Generated File[Forward.GKO]
-   Generated File[Forward.GM]
    Generated File[Forward.RUL]
    Generated File[Forward.EXTREP]
    Generated File[Forward.REP]
@@ -17,4 +13,4 @@ From  : Variant [[No Variations]] of PCB Document [Forward.PcbDoc]
 Files Generated   : 7
 Documents Printed : 0
 
-Finished Output Generation At 23:42:31 On 29/06/2025
+Finished Output Generation At 11:04:25 On 30/06/2025
