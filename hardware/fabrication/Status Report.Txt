@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Forward_Project.PrjPcb]
+   Generated File[Forward.TXT]
+   Generated File[Forward.LDP]
+   Generated File[Forward.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:40:12 On 30/06/2025

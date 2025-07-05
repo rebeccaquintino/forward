@@ -2,30 +2,8 @@
 FileName = Forward.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : Forward.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Forward.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
-      File : Forward.GBL
+      File : Forward_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -53,7 +31,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Layer
-      File : Forward.GTL
+      File : Forward_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -77,5 +55,27 @@ Used DCodes :
     D23
     D24
     D25
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Forward_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Forward_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D26
+    D27
 *************************************************************
 
